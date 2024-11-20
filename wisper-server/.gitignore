@@ -1,0 +1,42 @@
+# Node.js
+node_modules/
+
+# Python
+*.pyc
+__pycache__/
+
+# Environment files
+.env
+*.env
+
+# Logs
+logs
+*.log
+
+# Uploads directory (for uploaded audio files)
+uploads/
+
+# Build directories
+/dist
+/build
+
+# MacOS Finder specific files
+.DS_Store
+
+# Windows Thumbs.db
+Thumbs.db
+
+# npm debug log
+npm-debug.log*
+
+# Yarn log
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs
+.vscode/
+.idea/
+
+# OS-specific files
+*.swp
+
